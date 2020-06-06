@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jpa
+Implementation-Version: 1.1
+Built-By: Usuario
+Implementation-Vendor-Id: educacionit
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/JPA-Tutorial
+Created-By: Maven Integration for Eclipse
+
